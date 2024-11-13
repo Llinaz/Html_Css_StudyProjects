@@ -1,0 +1,38 @@
+body {
+	margin: 0px;
+	background-color: rgba(216, 240, 242, 0.7);
+}
+header {
+	background-color: #A5D0D9;
+	padding-bottom: 20px;
+}
+.site-menu a {
+	font-size: 60px;
+	color: #fff;
+}
+.site-menu li {
+	padding: 20px;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-family: 'Brush Script MT', fantasy;
+	display: inline-block;
+}
+.site-menu {
+	position: absolute;
+	right: 0;
+	top: 50%;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	list-style: none;
+}
+.header-wrapper {
+	position: relative;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.logo {
+	position: relative;
+	top: 15px;
+	right: 200px;
+}
